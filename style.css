@@ -9,3 +9,20 @@ body {
     margin: 0 auto;
     width: 100%;
 }
+
+.box {
+  height: 100px;
+  min-width: 100px;
+}
+
+.one {
+ background: yellow;
+}
+
+.two {
+  background: cyan;
+}
+
+.three {
+  background: fuchsia;
+}
