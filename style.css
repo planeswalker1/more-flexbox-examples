@@ -10,6 +10,11 @@ body {
     width: 100%;
 }
 
+.flex-container {
+  display: flex;
+  background: white;
+}
+
 .box {
   height: 100px;
   min-width: 100px;
