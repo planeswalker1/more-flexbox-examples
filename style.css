@@ -22,12 +22,15 @@ body {
 
 .one {
  background: yellow;
+ flex-grow: 2;
 }
 
 .two {
+  flex-grow: 3;
   background: cyan;
 }
 
 .three {
+  flex-grow: 1;
   background: fuchsia;
 }
