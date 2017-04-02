@@ -50,6 +50,7 @@ a.tw {
 
 nav .social {
   max-width: 80px;
+  margin: 0 auto;
 }
 
 .social a {
@@ -59,7 +60,12 @@ nav .social {
 /* flex styles */
 
 nav .social {
+display: flex;
 flex: 1 1 0;
+}
+
+nav .social li {
+  flex: 1 1 0;
 }
 
 @media screen and (min-width: 768px) {
