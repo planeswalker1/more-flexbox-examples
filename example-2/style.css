@@ -47,7 +47,20 @@ a.tw {
   background: url(img/tw.png) no-repeat center;
   background-size: 80%;
 }
+
+nav .social {
+  max-width: 80px;
+}
+
+.social a {
+  text-indent: -10000px;
+}
+
 /* flex styles */
+
+nav .social {
+flex: 1 1 0;
+}
 
 @media screen and (min-width: 768px) {
 
