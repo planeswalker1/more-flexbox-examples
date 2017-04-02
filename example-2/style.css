@@ -1,7 +1,10 @@
-body {
-  background: #eee;
+* {
   font-family: verdana;
   margin: 0;
+}
+
+body {
+  background: #eee;
 }
 
 .wrapper {
