@@ -109,4 +109,14 @@ ul.social {
   margin: 0;
 }
 
+#blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+article {
+  flex: 0 1 32%;
+}
+
 }
