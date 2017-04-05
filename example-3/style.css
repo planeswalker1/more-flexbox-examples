@@ -60,6 +60,10 @@ a.fb {
   margin: 0 auto;
 }
 
+.control {
+  margin: 20px;
+}
+
 /* grid vs flex base styles */
 
 #blocks {
