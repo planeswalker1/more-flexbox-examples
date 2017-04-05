@@ -62,7 +62,22 @@ a.fb {
 
 /* grid vs flex base styles */
 
+#blocks {
+  margin: 20px;
+}
 
+article {
+  background: #fff;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+article h2 {
+  font-size: 20px;
+  margin: 10px 0;
+  text-align: center;
+}
 
 /* flex styles */
 
